@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 	   @RequestMapping("/locale")
 	   public String locale() {
 	      return "locale";
+//	     this is comment
 	   }
 	}
 
