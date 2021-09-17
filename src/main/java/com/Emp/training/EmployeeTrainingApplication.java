@@ -31,7 +31,9 @@ public class EmployeeTrainingApplication {
 	//Person pr=con.getBean("person",Person.class);
 	//pr.studyGk();
 int rank=st.rankOfVideo(100, 65);
-System.out.println("video ranking position is :"+rank);}
+System.out.println("this is video ranking :"+rank);
+System.out.println("hello welocme");}
+
 
 
 }
